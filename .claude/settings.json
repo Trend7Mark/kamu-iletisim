@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Figma__generate_image",
+      "mcp__Figma__create_session",
+      "mcp__Figma__create_new_file",
+      "mcp__Figma__whoami"
+    ]
+  }
+}
